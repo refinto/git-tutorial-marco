@@ -1,2 +1,1 @@
-console.log('HAlLow Semua');
-console.log("Version3")
+console.log('HAlLow Semua')
